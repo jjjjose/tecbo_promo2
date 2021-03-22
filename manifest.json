@@ -1,0 +1,16 @@
+{
+  "lang": "es-ES",
+  "name": "Tecnologias Bolivia",
+  "short_name": "TecBo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#445566",
+  "description": "Internet Portátil Ilimitado",
+  "icons": [
+    {
+      "src": "assets/img/logo_192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
