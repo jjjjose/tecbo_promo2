@@ -4,7 +4,7 @@
   "short_name": "TecBo",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#445566",
+  "background_color": "#EE7318",
   "description": "Internet Portátil Ilimitado",
   "icons": [
     {
