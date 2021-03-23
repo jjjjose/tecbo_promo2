@@ -629,6 +629,10 @@ video {
   height: 12rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .h-full {
   height: 100%;
 }
@@ -895,6 +899,10 @@ video {
     height: 5rem;
   }
 
+  .lg\:h-72 {
+    height: 18rem;
+  }
+
   .lg\:h-96 {
     height: 24rem;
   }
@@ -986,4 +994,7 @@ video {
 }
 
 @media (min-width: 1280px) {
+  .xl\:h-96 {
+    height: 24rem;
+  }
 }
