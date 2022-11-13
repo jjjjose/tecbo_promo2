@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jjjjose/tecbo_promo2#readme",
   "devDependencies": {
     "autoprefixer": "^10.2.5",
-    "postcss": "^8.2.8",
+    "postcss": "^8.2.13",
     "tailwindcss": "^2.0.4"
   }
 }
